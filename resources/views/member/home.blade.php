@@ -29,7 +29,7 @@
 
     <div class="row main container-fluid ">
 
-        <div class="col-sm-2 col-md-2 col-lg-2 m1">
+        <div class="col-sm-11 col-md-3 col-lg-2 m1">
             <div class="filter card h-40 ">
                 <form action="{{ route('member.find')}}" method="POST" id="form-find" >
                     @csrf

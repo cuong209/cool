@@ -9,7 +9,7 @@
                     </div>
                     <div class="content">
                         <div class="row">
-                            <div class="col-lg-1">
+                            <div class="col-lg-12">
                                 <h2>Shopping Cart</h2>
                                 <p>text</p>
                             </div>
@@ -87,6 +87,11 @@
                 </div>
             </section>
         </div>
-
+        <style>
+            h2 {
+                text-align: center;
+                font-weight:bolder ;
+            }
+        </style>
     </div>
 @endsection

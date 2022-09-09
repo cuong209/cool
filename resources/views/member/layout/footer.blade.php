@@ -66,4 +66,14 @@
     <div class="row bottom-text">
         <h4>©Rheem Cooling rights reserved</h4>
     </div>
+    <style>
+        a {
+            text-decoration: none;
+            color: black;
+        }
+        li  {
+            list-style-position: none;
+            list-style-type: none;
+        }
+    </style>
     <footer>
