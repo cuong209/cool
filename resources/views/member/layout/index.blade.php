@@ -1,6 +1,6 @@
 @extends('member.home')
 @section('member')
-    <div class="col-sm-10 col-md-10 col-lg-10">
+    <div class="col-sm-12 col-md-9 col-lg-10">
         <div class="Product card h-30 ">
             <div class="slide img">
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
